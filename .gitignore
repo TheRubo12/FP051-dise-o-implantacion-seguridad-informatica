@@ -1,0 +1,18 @@
+# SO / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets / material sensible
+*.pem
+*.key
+*.pfx
+*.ovpn
+*.crt
+*.csr
+*.p12
+*.kdbx
+.env
+.env.*
+secrets/
