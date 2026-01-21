@@ -18,5 +18,4 @@ Los informes en PDF están en `docs/informes/`:
 ## Anexos de código
 Este repositorio prioriza los informes. Si se incluye contenido técnico (comandos, scripts, reglas o configuraciones), se organiza en `anexos/codigo/` como anexo.
 
-## Notas de seguridad
-Antes de publicar el repositorio como público, revisa los PDFs y elimina o anonimiza información sensible (IPs, usuarios/contraseñas, configuraciones de red, evidencias de explotación, etc.).
+
